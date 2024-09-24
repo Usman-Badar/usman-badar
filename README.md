@@ -110,9 +110,9 @@ Hafsa Educational Academy
 ## Connect With Me
 
 
-* LinkedIn: [[your-linkedin-profile-url](https://www.linkedin.com/in/usmanbadar/)]
-* Email: [[your-email-address](usman.umer0335@gmail.com)]
-* Phone: [[your-phone-number](+92 330 744620)]
+* LinkedIn: https://www.linkedin.com/in/usmanbadar
+* Email: usman.umer0335@gmail.com
+* Phone: +92 330 744620
 
 
 ## Stats
