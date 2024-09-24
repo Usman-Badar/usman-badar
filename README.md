@@ -71,7 +71,7 @@ With over 3 years of experience as a Senior Full Stack Developer, I have a prove
 query optimization.
 
 
-### Full Stack Developer at Seatech (Aug 2021 - Aug 2024)
+### Full Stack Developer at Seatech (Mar 2021 - Aug 2024)
 
 
 * Developed multiple web and mobile applications
